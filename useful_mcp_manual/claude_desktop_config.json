@@ -1,0 +1,38 @@
+{
+  "mcpServers": {
+    "desktop-commander": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@wonderwhy-er/desktop-commander"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "awslabs.aws-api-mcp-server": {
+      "command": "python",
+      "args": [
+        "-m",
+        "awslabs.aws_api_mcp_server.server"
+      ],
+      "env": {
+        "AWS_REGION": "ap-northeast-2",
+        "AWS_API_MCP_PROFILE_NAME": "default",
+        "READ_OPERATIONS_ONLY": "false"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "Context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp"
+      ]
+    }
+  }
+}
