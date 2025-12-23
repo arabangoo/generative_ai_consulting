@@ -1179,22 +1179,33 @@ Response: {response_schema}
 
 ### 3. Msty + Obsidian
 
-```markdown
-# 옵시디언에서 Msty 활용
+**지식 관리 시스템 구축**
 
-## Daily Note에 기록
-- [[Msty]] 태그로 연결
+**Daily Note에 기록**
+- `[[Msty]]` 태그로 연결
 - AI 모델별 답변 비교 저장
 - 백링크로 지식 그래프 구축
 
-## 템플릿
+**Obsidian 템플릿 예시**
 ```
+---
+date: {{date}}
+tags: [msty, ai]
+---
+
+# AI 질의응답
+
 프롬프트: {{prompt}}
 모델: {{model}}
 답변: {{response}}
 비용: {{cost}}
 ```
-```
+
+**활용 방법**
+1. Msty에서 생성한 답변을 Obsidian Daily Note에 복사
+2. 태그와 백링크로 관련 노트 연결
+3. 시간이 지나면서 개인화된 AI 지식 베이스 구축
+4. 검색으로 과거 질문과 답변 빠르게 찾기
 
 ### 4. 자동화 스크립트
 
@@ -1424,7 +1435,4 @@ Msty는 단순한 AI 채팅 도구를 넘어, **AI 모델을 전략적으로 활
 - [Ollama 모델 라이브러리](https://ollama.com/library)
 - [OpenAI API 문서](https://platform.openai.com/docs)
 - [Anthropic API 문서](https://docs.anthropic.com)
-- [Google AI Studio](https://makersuite.google.com)
-
-
-
+- [Google AI Studio](https://aistudio.google.com)
