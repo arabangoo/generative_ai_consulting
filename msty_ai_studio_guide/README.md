@@ -41,7 +41,7 @@ Msty 방식:
 - ✅ **프롬프트 라이브러리**: 자주 쓰는 프롬프트 저장 및 재사용
 - ✅ **대화 컨텍스트 유지**: 모델 간 전환 시 컨텍스트 유지
 
-<img width="722" height="495" alt="msty" src="https://github.com/user-attachments/assets/c31cd095-0535-4032-9b8f-38ab24ae663e" />
+<img width="1400" height="1000" alt="msty" src="https://github.com/user-attachments/assets/c31cd095-0535-4032-9b8f-38ab24ae663e" />
 
 ---
 
