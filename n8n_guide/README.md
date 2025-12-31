@@ -3172,6 +3172,6 @@ curl -X POST http://localhost:5678/api/v1/workflows \
 **스케일링 권장사항:**
 - < 100 req/sec: 단일 인스턴스
 - 100-500 req/sec: Queue 모드 + 다중 워커
-- > 500 req/sec: 로드 밸런서 + 여러 N8N 인스턴스
+- 500 이상 req/sec: 로드 밸런서 + 여러 N8N 인스턴스
 
 
