@@ -2670,9 +2670,6 @@ return [{ json: result }];
 **워크플로우 템플릿:**
 - https://n8n.io/workflows
 
-**Discord:**
-- https://discord.gg/n8n
-
 ---
 
 ## FAQ
