@@ -317,10 +317,6 @@
 
 ## 참고 자료
 
-### AI 생산성 연구
-
-- **McKinsey**: [AI가 지식 노동 생산성에 미치는 영향](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai)
-
 ### 프롬프트 엔지니어링
 
 - **OpenAI 가이드**: https://platform.openai.com/docs/guides/prompt-engineering
