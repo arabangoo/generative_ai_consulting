@@ -320,7 +320,6 @@
 ### AI 생산성 연구
 
 - **McKinsey**: [AI가 지식 노동 생산성에 미치는 영향](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai)
-- **Harvard Business Review**: [생성형 AI와 의사결정](https://hbr.org/2023/07/how-generative-ai-changes-decision-making)
 
 ### 프롬프트 엔지니어링
 
