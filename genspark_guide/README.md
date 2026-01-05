@@ -1278,9 +1278,6 @@ Pro 플랜 ($23/월) 투자 대비:
 
 ### 공식 문서
 - **Genspark 공식 사이트**: https://www.genspark.ai/
-- **추가 가이드 및 튜토리얼**:
-  - [젠스파크 완벽 가이드 2025](https://brunch.co.kr/@acc9b16b9f0f430/156)
-  - [젠스파크 실전 활용법](https://brunch.co.kr/@sukistory/70)
 
 ### 관련 도구
 - **데이터 준비**: Excel, Google Sheets, Airtable, CSV
